@@ -1,0 +1,38 @@
+
+.proo{
+  
+}
+
+.spto{
+  display: flex;
+  margin: 35px;
+}
+
+.sp1,.sp2,.sp3,.sp4,.sp5,.sp6{
+  width: 100%;
+  height: 330px;
+  flex: 2;
+  background: white;
+  margin-right: 20px;
+  border-radius: 20px;
+}
+.spImg{
+width: 100%;
+border-radius: 20px 20px 0 0;
+border-bottom: 5px solid gray;
+}
+
+.chune{
+  text-align: center;
+  font-size: 25px;
+  font-family:'Times New Roman', Times, serif;
+  margin-top: 10px;
+}
+
+.giatien{
+  margin-top: 30px;
+  color: red;
+}
+
+
+

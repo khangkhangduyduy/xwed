@@ -1,0 +1,68 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.post{
+  
+}
+
+
+.FAKE{
+  height: 25px;
+  margin: 80px 30px 20px 30px;
+  display: flex;
+}
+
+.spfake{
+  flex:6;
+  text-align: left;
+}
+
+.spbendayne{
+  flex:6;
+  text-align: right;
+}
+.spbendayne i{
+  margin-left: 10px;
+}
+
+
+.cotto{
+  display: flex;
+  margin: 30px 60px ;
+  border-radius: 0px;
+  background: white;
+  box-shadow:  9px 9px 20px #615c5c,
+              -9px -9px 20px #ffffff;
+}
+.cot1{
+  height: 70px;
+  flex: 3;
+  border-right: 2px solid gray;
+}
+.Iconpig {
+  display: block;
+  margin: 8px 0 0 50px;
+  width: 50px;
+  font-size: 50px;
+}
+.mewmewxe,.h4,.p{
+  margin: -44px 0 0 150px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.cot2{
+  height: 70px;
+  flex:3;
+  border-right: 2px solid gray;
+}
+.cot3{
+  height: 70px;
+flex: 3;
+border-right: 2px solid gray;
+}
+.cot4{
+  height: 70px;
+flex: 3;
+}
